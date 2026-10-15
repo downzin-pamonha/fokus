@@ -29,11 +29,11 @@
 
 <div align="center">
   <h2>💻 Preview プレビュー</h2>
-    <a href="http://downzin01.github.io/fokus/">
+    <a href="http://downzin-pamonha.github.io/fokus/">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github pages" />
   </a>
   <br>
-  <a href="http://downzin01.github.io/fokus/">
+  <a href="http://downzin-pamonha.github.io/fokus/">
     <img src="./imagens/ReadMe/previewLocalStorage.png" alt ="Preview Image"/>
   </a>
 </div>
